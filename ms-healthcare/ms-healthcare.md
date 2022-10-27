@@ -27,6 +27,8 @@
 
 [Get started with Microsoft Cloud for Healthcare solutions powered by Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/overview)
 
+[Update Microsoft Cloud for Healthcare solutions powered by Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/update)
+
 ## Get Early Access Features for MC4C
 
 [Enable early access features in Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/enable-early-access)
