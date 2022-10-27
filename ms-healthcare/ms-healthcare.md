@@ -33,6 +33,6 @@
 
 [Enable early access features in Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/enable-early-access)
 
-## 👀Microsoft Learn - Learning Path
+## Microsoft Learn - Learning Path
 
 [Get started with Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/training/paths/healthcare-in-a-day/)
