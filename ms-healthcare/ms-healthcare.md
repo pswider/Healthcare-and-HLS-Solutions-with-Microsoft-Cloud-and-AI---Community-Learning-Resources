@@ -24,3 +24,9 @@
 + [Enhance patient engagement](https://learn.microsoft.com/en-us/industry/healthcare/architecture/enhance-patient-engagement)
 + [Empower health team collaboration to coordinate care](https://learn.microsoft.com/en-us/industry/healthcare/architecture/empower-health-team-collaboration)
 + [End-to-end workloads with FHIR-based protected health information (PHI) store](https://learn.microsoft.com/en-us/industry/healthcare/architecture/fhir-workloads)
+
+[Get started with Microsoft Cloud for Healthcare solutions powered by Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/overview)
+
+## Get Early Access Features for MC4C
+
+[Enable early access features in Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/enable-early-access)
