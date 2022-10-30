@@ -2,10 +2,12 @@
 
 ## General
 
-+ [Setup Postman and sample collections](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/) - Azure FHIR
++ [Plan and prepare for Microsoft Cloud for Healthcare in 2022 release wave 2](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/)
++ [From free text to FHIR: Text Analytics for health launches new feature to boost interoperability](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/from-free-text-to-fhir-text-analytics-for-health-launches-new/ba-p/3257066) Blog Post
 
 ## Azure FHIR
 
++ [Overview of Data Integration Toolkit](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/data-integration-toolkit-overview#what-is-sync-admin-for-fhir) Formally known as FHIR Sync Admin
 + [Setup Postman and sample collections](https://github.com/microsoft/azure-health-data-services-workshop/blob/main/resources/docs/Postman_FHIR_service_README.md) - Azure FHIR
 + [Accessing Azure Health Data Services using the REST Client Extension in Visual Studio Code](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/using-rest-client)
 + [Deploy a FHIR service within Azure Health Data Services - using portal](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/fhir-portal-quickstart)
@@ -13,6 +15,10 @@
 + [Deploy a FHIR service within Azure Health Data Services - using ARM template](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/fhir-service-resource-manager-template?tabs=PowerShell)
 + [Manage FHIR data using Data Integration Toolkit](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/data-integration-toolkit-manage-fhir-data)
 + [Configure cross-origin resource sharing in FHIR service](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/configure-cross-origin-resource-sharing) - CORS
+
+## Analytics and Data
+
++ [Use Azure Synapse database templates with Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/synapse-database-templates)
 
 ## Snowflake and MC4H
 
