@@ -1,4 +1,4 @@
-# Community Learning Resources for Microsoft Cloud for Healthcare Arhitects
+# Community Learning Resources for Microsoft Cloud for Healthcare Architects
 
 ![Microsoft Cloud for Healthcare Capabilities](https://github.com/pswider/mc4h/blob/main/mc4h-resources/2022-10-30_5-12-15.jpg)
 
