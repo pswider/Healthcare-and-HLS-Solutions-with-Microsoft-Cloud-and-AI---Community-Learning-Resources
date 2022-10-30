@@ -1,5 +1,9 @@
 # Microsoft Cloud for Healthcare Resources
 
+## General
+
++ [Setup Postman and sample collections](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/) - Azure FHIR
+
 ## Azure FHIR
 
 + [Setup Postman and sample collections](https://github.com/microsoft/azure-health-data-services-workshop/blob/main/resources/docs/Postman_FHIR_service_README.md) - Azure FHIR
