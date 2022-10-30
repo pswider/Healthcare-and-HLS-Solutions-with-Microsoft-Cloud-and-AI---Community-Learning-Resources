@@ -2,7 +2,10 @@
 
 ## General
 
++ [Healthcare and Life Sciences Technical Community](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ct-p/HealthcareAndLifeSciences)
 + [Plan and prepare for Microsoft Cloud for Healthcare in 2022 release wave 2](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/)
++ [Compliance in Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/industry/healthcare/compliance-overview)
++ [Microsoft Cloud for Healthcare reference architectures](https://learn.microsoft.com/en-us/industry/healthcare/architecture/overview)
 
 ## Azure FHIR
 
