@@ -3,7 +3,6 @@
 ## General
 
 + [Plan and prepare for Microsoft Cloud for Healthcare in 2022 release wave 2](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/)
-+ [From free text to FHIR: Text Analytics for health launches new feature to boost interoperability](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/from-free-text-to-fhir-text-analytics-for-health-launches-new/ba-p/3257066) Blog Post
 
 ## Azure FHIR
 
@@ -15,6 +14,7 @@
 + [Deploy a FHIR service within Azure Health Data Services - using ARM template](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/fhir-service-resource-manager-template?tabs=PowerShell)
 + [Manage FHIR data using Data Integration Toolkit](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/data-integration-toolkit-manage-fhir-data)
 + [Configure cross-origin resource sharing in FHIR service](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/configure-cross-origin-resource-sharing) - CORS
++ [From free text to FHIR: Text Analytics for health launches new feature to boost interoperability](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/from-free-text-to-fhir-text-analytics-for-health-launches-new/ba-p/3257066) Blog Post
 
 ## Analytics and Data
 
