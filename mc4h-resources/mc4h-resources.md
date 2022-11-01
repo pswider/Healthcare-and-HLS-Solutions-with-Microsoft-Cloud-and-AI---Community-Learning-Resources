@@ -1,4 +1,4 @@
-# Microsoft Cloud for Healthcare Resources
+# Microsoft Cloud for Healthcare Resources for Architects
 
 ## General
 
