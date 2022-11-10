@@ -18,6 +18,7 @@
 + [Manage FHIR data using Data Integration Toolkit](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/data-integration-toolkit-manage-fhir-data)
 + [Configure cross-origin resource sharing in FHIR service](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/configure-cross-origin-resource-sharing) - CORS
 + [From free text to FHIR: Text Analytics for health launches new feature to boost interoperability](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/from-free-text-to-fhir-text-analytics-for-health-launches-new/ba-p/3257066) Blog Post
++ [FIRELY .NET SDK - The official HL7 FHIR SDK in .NET](https://fire.ly/products/firely-net-sdk/)
 
 ## Analytics and Data
 
