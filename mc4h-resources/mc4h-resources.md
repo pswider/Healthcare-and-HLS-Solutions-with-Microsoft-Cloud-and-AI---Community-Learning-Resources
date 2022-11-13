@@ -2,6 +2,7 @@
 
 ## General
 
++ [HL7 FHIR DevDays The Largest FHIR-Only Event in the World](https://www.devdays.com/)
 + [Healthcare and Life Sciences Technical Community](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ct-p/HealthcareAndLifeSciences)
 + [Plan and prepare for Microsoft Cloud for Healthcare in 2022 release wave 2](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/)
 + [Compliance in Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/industry/healthcare/compliance-overview)
@@ -19,6 +20,10 @@
 + [Configure cross-origin resource sharing in FHIR service](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/configure-cross-origin-resource-sharing) - CORS
 + [From free text to FHIR: Text Analytics for health launches new feature to boost interoperability](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/from-free-text-to-fhir-text-analytics-for-health-launches-new/ba-p/3257066) Blog Post
 + [FIRELY .NET SDK - The official HL7 FHIR SDK in .NET](https://fire.ly/products/firely-net-sdk/)
++ [public FHIR server HAPI Test Server (R4 FHIR)](http://hapi.fhir.org/)
++ [Graphir project](https://github.com/microsoft/Graphir/tree/main/Graphir.API) OSS projct to use GraphQL wrapper for Azure FHIR
++ [Graphir React project](https://github.com/microsoft/graphir-react-client) OSS projct to use Graphir with React components
++ [Graphir React YouTube](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/quickly-build-react-components-using-graphir/ba-p/3669874)
 
 ## Analytics and Data
 
