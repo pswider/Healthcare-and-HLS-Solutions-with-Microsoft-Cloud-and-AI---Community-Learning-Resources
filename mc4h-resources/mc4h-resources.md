@@ -24,6 +24,7 @@
 + [Graphir project](https://github.com/microsoft/Graphir/tree/main/Graphir.API) OSS projct to use GraphQL wrapper for Azure FHIR
 + [Graphir React project](https://github.com/microsoft/graphir-react-client) OSS projct to use Graphir with React components
 + [Graphir React YouTube](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/quickly-build-react-components-using-graphir/ba-p/3669874)
++ [What is GraphQL?](https://graphql.org/)
 
 ## Analytics and Data
 
