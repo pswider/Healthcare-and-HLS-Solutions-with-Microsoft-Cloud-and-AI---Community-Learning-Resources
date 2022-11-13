@@ -1,4 +1,4 @@
-# Microsoft Cloud for Healthcare
+# Microsoft Cloud for Healthcare Trials and Demos
 
 ## Get Started
 
