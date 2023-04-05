@@ -2,6 +2,7 @@
 
 ## General
 
++ [How the FHIR Data Standard Advances Patient-Centered Care, Healthcare AI Innovation](https://accelerationeconomy.com/cxo/how-fhir-healthcare-data-standard-supports-patient-centered-care-ai-innovation/) - Research article
 + [HL7 FHIR DevDays The Largest FHIR-Only Event in the World](https://www.devdays.com/) FHIR Conference
 + [Healthcare and Life Sciences Technical Community](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/ct-p/HealthcareAndLifeSciences)
 + [Plan and prepare for Microsoft Cloud for Healthcare in 2022 release wave 2](https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/industry-clouds/healthcare/)

@@ -6,4 +6,9 @@ Additional community learning resources related to Microsoft Industry Cloud for 
 
 pswider@realactivity.com or [schedule a 15 minute meeting.](https://calendly.com/paulswider)
 
+Official Microsoft Health and HLS Community on [Discord](https://discord.com/channels/983406607717240842/1019665511673516042)
+
+Global Healthcare and HLS Cloud Community [Discord.gg/healthcare](https://discord.gg/healthcare)
+
 ![Data science with Microsoft Cloud for Healthcare](https://github.com/pswider/mc4h/blob/main/mc4h-resources/clinical-insights-solution.png)
+
