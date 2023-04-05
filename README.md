@@ -8,7 +8,7 @@ Official Microsoft Health and HLS Community on [Discord](https://discord.com/cha
 
 Global Healthcare and HLS Cloud Community [Discord.gg/healthcare](https://discord.gg/healthcare)
 
-Data science using HDS and Azure architecture infographic:
+Data science (surgery risk prediction) using HDS and Azure architecture infographic: ([download](https://arch-center.azureedge.net/surgery-risk-models.vsdx))
 
 ![Data science with Microsoft Cloud for Healthcare](https://github.com/pswider/mc4h/blob/main/mc4h-resources/predict-hospital-readmissions-machine-learning.svg)
 
