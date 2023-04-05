@@ -1,7 +1,9 @@
 # Innovative Healthcare and HLS Solutions with Microsoft Cloud and AI - Community Learning Resources
 
-Community resources related to Microsoft Industry Cloud for Healthcare are in the [mc4h-resources folder.](https://github.com/pswider/Microsoft-Cloud-for-Healthcare-Architect-Resources/blob/main/mc4h-resources/mc4h-resources.md)
+You can find a fantastic set of architecture resources for healthcare technology on Microsoft Cloud. [Start your journey on the official Microsoft Learn Healthcare site first.](https://learn.microsoft.com/en-us/azure/architecture/industries/healthcare)
 
-If you would like assistance setting up a private preview, a demo or POC environment of MC4H, email pswider@realactivity.com or [schedule a 15 minute meeting.](https://calendly.com/paulswider)
+Additional community learning resources related to Microsoft Industry Cloud for Healthcare are in the [mc4h-resources folder. ](https://github.com/pswider/Microsoft-Cloud-for-Healthcare-Architect-Resources/blob/main/mc4h-resources/mc4h-resources.md) These community links are provided to compliment the official Learn content. If your interested in adding content, ping us here.
 
-![Microsoft Cloud for Healthcare Capabilities](https://github.com/pswider/mc4h/blob/main/mc4h-resources/2022-10-30_5-12-15.jpg)
+pswider@realactivity.com or [schedule a 15 minute meeting.](https://calendly.com/paulswider)
+
+![Data science with Microsoft Cloud for Healthcare](https://github.com/pswider/mc4h/blob/main/mc4h-resources/clinical-insights-solution.png)
