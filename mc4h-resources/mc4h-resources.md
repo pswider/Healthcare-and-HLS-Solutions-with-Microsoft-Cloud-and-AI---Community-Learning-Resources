@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Hey, all you Microsoft Azure aficionados out there! Azure data and AI engineers should learn about [FHIR (Fast Healthcare Interoperability Resources)](https://accelerationeconomy.com/cxo/how-fhir-healthcare-data-standard-supports-patient-centered-care-ai-innovation/) because it is becoming an increasingly important standard for exchanging healthcare data electronically using cloud technology. By understanding FHIR and its implementation within Azure Health Data Services, Azure engineers can better help healthcare organizations manage and share patient data securely and provide the tools for effective data engineering. This knowledge can help them build AI-infused solutions for healthcare and health life science clients, improve patient outcomes, and ultimately contribute to the growth of the healthcare industry. Additionally, as FHIR adoption continues to grow globally, Azure engineers who are proficient in FHIR are in high demand.
+Hey, all you Microsoft Community Days Boston attendees and Azure aficionados out there! 
+
+Azure data and AI engineers should learn about [FHIR (Fast Healthcare Interoperability Resources)](https://accelerationeconomy.com/cxo/how-fhir-healthcare-data-standard-supports-patient-centered-care-ai-innovation/) because it is becoming an increasingly important standard for exchanging healthcare data electronically using cloud technology. By understanding FHIR and its implementation within Azure Health Data Services, Azure engineers can better help healthcare organizations manage and share patient data securely and provide the tools for effective data engineering. This knowledge can help them build AI-infused solutions for healthcare and health life science clients, improve patient outcomes, and ultimately contribute to the growth of the healthcare industry. Additionally, as FHIR adoption continues to grow globally, Azure engineers who are proficient in FHIR are in high demand.
 
 Azure Health Data Services from Microsoft is a cloud-based solution that helps healthcare organizations manage and share patient data securely and efficiently. With Fast Healthcare Interoperability Resources (FHIR) APIs, healthcare organizations can securely exchange and manage patient data while complying with industry regulations. The service also includes data analytics tools, machine learning and AI services, and secure data storage options, all aimed at helping healthcare organizations gain insights from their patient data and improve the quality of care. By leveraging Azure Health Data Services, healthcare organizations can improve patient outcomes, reduce costs, and increase efficiency, all while complying with regulatory requirements. Enjoy! #SharingIsCaring
 
@@ -19,6 +21,10 @@ LinkedIn Tags:
 + [Microsoft Cloud for Healthcare reference architectures](https://learn.microsoft.com/en-us/industry/healthcare/architecture/overview)
 
 ## OpenAI
+
+[The era of the AI Copilot](https://youtu.be/FyY0fEO5jVY) - Build 2023 Kevin Scott
+
+[Getting Started with generative AI using Azure OpenAI](https://youtu.be/o5uhn4GSpQU) - Build 2023
 
 [Semantic Kernel](https://github.com/microsoft/semantic-kernel) A lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages.
 
