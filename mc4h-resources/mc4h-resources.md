@@ -18,6 +18,10 @@ LinkedIn Tags:
 + [Compliance in Microsoft Cloud for Healthcare](https://learn.microsoft.com/en-us/industry/healthcare/compliance-overview)
 + [Microsoft Cloud for Healthcare reference architectures](https://learn.microsoft.com/en-us/industry/healthcare/architecture/overview)
 
+## OpenAI
+
+[Semantic Kernel](https://github.com/microsoft/semantic-kernel) A lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages.
+
 ## Azure FHIR
 
 + [Overview of Data Integration Toolkit](https://learn.microsoft.com/en-us/dynamics365/industry/healthcare/data-integration-toolkit-overview#what-is-sync-admin-for-fhir) Formally known as FHIR Sync Admin
